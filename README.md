@@ -1,3 +1,15 @@
+## Fork provenance
+
+This repository is a fork of [yetone/kill-ai-slop](https://github.com/yetone/kill-ai-slop). Original authorship belongs to the upstream project and its contributors; this repository does not claim first-party authorship of inherited work.
+
+- **Local purpose:** Reference snapshot of the upstream Kill AI Slop website and Agent Skill.
+- **Local changes:** Before this notice, GitHub reported this fork as **0 commits ahead / 1 commits behind** the direct upstream branch. This documentation notice is the local change introduced by this PR.
+- **Sync model:** Snapshot/reference fork. Upstream synchronization is explicit and must not be assumed automatically.
+- **License and attribution:** GitHub reports the inherited project as **Apache-2.0**. Existing license and attribution files remain authoritative.
+- **Links and project claims:** Website, feature, installation, authorship, badge, release, and project claims below belong to the upstream project unless explicitly identified as local.
+
+---
+
 # Kill AI Slop
 
 **[killaislop.com](https://killaislop.com)**
